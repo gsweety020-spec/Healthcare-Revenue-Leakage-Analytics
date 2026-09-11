@@ -292,3 +292,17 @@ Healthcare-Revenue-Leakage-Analytics/
 ## Portfolio Positioning
 
 This project demonstrates the ability to move beyond dashboard creation into business analysis: defining defensible healthcare metrics, understanding filter context, separating denial frequency from financial impact, identifying aging risk, and translating claims data into actionable revenue-cycle priorities.
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
+
+### Denial & Revenue Exposure
+![Denial & Revenue Exposure](screenshots/denial-revenue-exposure.png)
+
+### Provider Performance
+![Provider Performance](screenshots/provider-performance.png)
+
+### Root Cause Analysis
+![Root Cause Analysis](screenshots/root-cause-analysis.png)
